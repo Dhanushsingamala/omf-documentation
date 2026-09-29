@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: dhanush-omf-documentation
-  title: omf intial trail
+  title: omf-intial-trail
   description: doc on omf portal demo 
   annotations:
     github.com/project-slug: Dhanushsingamala/omf documentation
